@@ -1,0 +1,24 @@
+:root {
+  --main_font_family: "montserrat";
+  --main_font_size: 18px;
+  --main_font_weight: 400;
+  --header_bg_color: #2e2d3c;
+  --green_color: #67ce67;
+  --dark_green_color: #22bb5b;
+  --orange_color: #f94e36;
+  --dark_orange_color: #f8381d;
+  --gray_color: #4a4a4a;
+  --footer_bg: #2e2d3c;
+  --dark_text: #222;
+  --blue_bg: #6bc3fe;
+}
+a {
+  text-decoration: none;
+  color: inherit !important;
+}
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
